@@ -1,4 +1,4 @@
-# Halo! Saya HMA Amru 👋
+# Halo! Saya HMA 👋
 
 Saya adalah mahasiswa D-III Teknik Informatika di Politeknik Negeri Bengkalis dengan ketertarikan besar pada **Full-Stack Mobile Development**. Saya antusias dalam membangun aplikasi yang berdampak positif, khususnya dalam bidang aksesibilitas dan teknologi kesehatan.
 
